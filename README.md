@@ -1,6 +1,6 @@
 # AI Prompt Enhancer
 
-A React-based tool that helps improve prompts for Large Language Models (LLMs) by adding structure and context based on your preferred tone and specificity requirements. Right now it's just a project that I created for fun and I hope it can help people prompt better.
+A React-based tool that helps improve prompts for Large Language Models (LLMs) by adding structure and context based on your preferred tone and specificity requirements. Right now it's just a project that I created for fun and I hope it can help people prompt better. [Check it out here!](https://prompt-enhancer-alpha.vercel.app/)
 
 ## Features
 
